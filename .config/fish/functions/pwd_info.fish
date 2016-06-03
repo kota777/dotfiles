@@ -1,0 +1,1 @@
+/Users/kota777/.config/fisherman/pwd_info/functions/pwd_info.fish

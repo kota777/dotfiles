@@ -1,0 +1,1 @@
+/Users/kota777/.config/fisherman/simple/functions/fish_prompt.fish

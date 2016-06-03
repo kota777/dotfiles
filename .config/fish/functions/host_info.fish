@@ -1,0 +1,1 @@
+/Users/kota777/.config/fisherman/host_info/functions/host_info.fish

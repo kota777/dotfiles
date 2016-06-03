@@ -1,0 +1,1 @@
+/Users/kota777/.zprezto/runcoms/zshrc

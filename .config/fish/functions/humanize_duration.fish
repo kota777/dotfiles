@@ -1,0 +1,1 @@
+/Users/kota777/.config/fisherman/humanize_duration/functions/humanize_duration.fish
